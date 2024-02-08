@@ -1,0 +1,3 @@
+npm i readline-sync gradient-string mineflayer mineflayer-pathfinder axios
+echo Packete Installiert! Starte Skript...
+node afkgriefer.js
